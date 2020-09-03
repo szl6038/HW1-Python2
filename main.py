@@ -8,7 +8,7 @@ b_minus = 2.67
 c_plus = 2.33
 c = 2.0
 d = 1.0
-f = 0.0
+f = 0.
 
 Course1grade = input("Enter your course 1 letter grade: ")
 
