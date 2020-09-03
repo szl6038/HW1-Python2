@@ -38,8 +38,8 @@ elif Course1grade=="D":
   GP1 = float(d)
   GPC1 = (d*float(Course1credit))
 else:
-  GP = 0
-  GPC1 = 0
+  GP1 = 0.0
+  GPC1 = 0.0
 
 print("Grade point for course 1 is: " + str(GP1))
 
@@ -72,8 +72,8 @@ elif Course2grade=="D":
   GP2 = float(d)
   GPC2 = (d*float(Course2credit))
 else:
-  GP2 = 0
-  GPC2 = 0
+  GP2 = 0.0
+  GPC2 = 0.0
 
 print("Grade point for course 2 is: " + str(GP2))
 
@@ -106,8 +106,8 @@ elif Course3grade=="D":
   GP3 = float(d)
   GPC3 = (d*float(Course3credit))
 else:
-  GP3 = 0
-  GPC3 = 0
+  GP3 = 0.0
+  GPC3 = 0.0
 
 print("Grade point for course 3 is: " + str(GP3))
 
