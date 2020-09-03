@@ -41,7 +41,7 @@ else:
   GP = 0
   GPC1 = 0
 
-print("Grade point for Course 1 is: " + str(GP1))
+print("Grade point for course 1 is: " + str(GP1))
 
 Course2grade = input("Enter your course 2 letter grade: ")
 
@@ -75,7 +75,7 @@ else:
   GP2 = 0
   GPC2 = 0
 
-print("Grade point for Course 2 is: " + str(GP2))
+print("Grade point for course 2 is: " + str(GP2))
 
 Course3grade = input("Enter your course 3 letter grade: ")
 
@@ -109,7 +109,7 @@ else:
   GP3 = 0
   GPC3 = 0
 
-print("Grade point for Course 3 is: " + str(GP3))
+print("Grade point for course 3 is: " + str(GP3))
 
 TGPC = (GPC1+GPC2+GPC3)
 
